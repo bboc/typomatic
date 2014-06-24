@@ -12,7 +12,7 @@ body {
   padding: 0 5rem 0 5rem;
   margin: 0 auto;
   color: #333;
-  font-family: Georgia, Times, sans-serif;
+  font-family: Georgia, Times, serif;
 }
 
 /* line 14, ../sass/_base.scss */
@@ -120,7 +120,7 @@ p {
   -webkit-font-feature-settings: "liga", "dlig";
   -o-font-feature-settings: "liga", "dlig";
   font-feature-settings: "liga", "dlig";
-  font-family: Georgia, Times, sans-serif;
+  font-family: Georgia, Times, serif;
 }
 
 /* line 86, ../sass/_typomatic.scss */
