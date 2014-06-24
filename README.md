@@ -18,6 +18,10 @@ Mixin arguments:
     $scale
 
 The scale argument takes a value from the list of sizes (small, base, medium...) defined in the *$type-scale* map.
+	
+    $extend
+
+The extend argument is a boolean. Default is true, when set to false the mixin outputs the css with the @include instead of @extend for use inside media queries.
 
     $map
     
